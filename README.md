@@ -4,4 +4,5 @@ Make part of the text in a TextView clickable and with different style. Usually 
 
 Screenshot:
 
-https://drive.google.com/file/d/0B_ApnWiMp4bVY1dlSzN5TWgwTDg/view?usp=sharing
+
+![Alt text](https://docs.google.com/uc?export=download&id=0B_ApnWiMp4bVY1dlSzN5TWgwTDg "Optional title")
